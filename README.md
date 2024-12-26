@@ -31,9 +31,7 @@
       <p>www.sisteminformasi.unpam.ac.id | e-mail : sistem_informasi@unpam.ac.id</p>
   </header>
   <main>
-
     <section id="beranda">
-
       <h1>📚 BERANDA</h1>
       <hr size="3px" color="darkolivegreen" width="100%">
       <p class="beranda-deskripsi">LANGKAH-LANGKAH MENGGUNAKAN WEBSITE PERPUSTAKAAN DIGITAL</p>
@@ -92,7 +90,6 @@
           <li><strong>Fitur Utama:</li></strong>
           <p>Katalog Online: Jelajahi koleksi buku, jurnal, e-book, dan bahan pustaka lainnya melalui sistem pencarian
             yang cepat dan mudah.Peminjaman dan Pengembalian: Daftar dan kelola peminjaman buku secara online.</p>
-
           <strong>
             <li>Informasi Acara:</li>
           </strong>
@@ -111,10 +108,8 @@
     </div>
   </div>
   <footer>
-
     <span class="footer-title">MY PAGE</span>
     <img src="image/logo_per.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%;">
-
     <div class="info">
       <ul>
         <li class="footer-list_header">Offers</li>
@@ -123,7 +118,6 @@
         <li><a href="#">Categories</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
-
       <ul>
         <li class="footer-list_header">Documents</11>
         <li><a href="#">About</a></li>
@@ -131,7 +125,6 @@
         <li><a href="#">Terms of Service</a></li>
         <li><a href="#">Cookies</a></li>
       </ul>
-
       <ul>
         <li class="footer-list_header">For You</li>
         <li><a href="#">Manuals</a></li>
@@ -139,7 +132,6 @@
         <li><a href="#">Tips & Tricks</a></li>
         <li><a href="#">F&Q</a></li>
       </ul>
-
       <ul>
         <li class="footer-list_header">Work with us</li>
         <li><a href="#">Affiliate</a></li>
@@ -152,4 +144,3 @@
 </body>
 
 </html>
-
